@@ -34,9 +34,3 @@ The analysis provides insights into:
 - Member retention patterns
 - Usage patterns across different demographics
 - Correlation between various membership attributes
-
-## Author
-[Your Name]
-
-## License
-[Choose appropriate license]
